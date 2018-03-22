@@ -11,7 +11,7 @@ public class Solution {
       scan.close();
       String ans="";
           
-      // if 'n' is NOT evenly divisible by 2 (i.e.: n is odd)
+      // si 'n' es impar 
       
        if(no%2==1)
         {
